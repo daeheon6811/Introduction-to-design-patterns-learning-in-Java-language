@@ -1,11 +1,11 @@
 ## 반복자 패턴 (iterator pattern)
 
 ## 생성
-[1) Builder ](./docs/folderB/b.md)
-[2) Prototype ]
-[3) Factory Method ]
-[4) Abstract Method ]
-[5) Singleton ]
+1) Builder
+2) Prototype 
+3) Factory Method 
+4) Abstract Method 
+5) Singleton 
 
 ## 구조
 1) Bridge 
@@ -21,7 +21,7 @@
 2) Template Method 
 3) Chain of Responsibility 
 4) Command 
-5) Iterator 
+[5) Iterator] (./src/java/Iterator/READEME.md)
 6) Mediator 
 7) Memento 
 8) Observer 
