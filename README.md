@@ -20,32 +20,29 @@
 
 > 연관 패턴
 
-Visitor패턴
-많은 것이 모여 있는 내부를 돌아다니면서 같은 처리를 반복 적용해가는 패턴
+Visitor패턴 : 많은 것이 모여 있는 내부를 돌아다니면서 같은 처리를 반복 적용해가는 패턴
 
-Composite패턴
-Composite패턴은 재귀적인 구조를 갖는 페턴
+Composite패턴 : Composite패턴은 재귀적인 구조를 갖는 페턴
 
-Facory Method 패턴
-iterator메소드가 iterator 인스턴스를 작성할 때 Factory method 패턴이 사용되는 경우 가 있다.
+Facory Method 패턴 : iterator메소드가 iterator 인스턴스를 작성할 때 Factory method 패턴이 사용되는 경우 가 있다.
 
 
 <br/>
 
 
-* Iterator(반복자)의 역할 #
+* Iterator(반복자)의 역할
 요소를 순서대로 검색해가는 인터페이스를 결정합니다.
 다음 요소가 존재하는지를 얻기위한 hasNext()와 다음 요소를 얻기 위한 next()를 결정합니다.
 
-* ConcreateIterator(구체적인 반복자)의 역할 #
+* ConcreateIterator(구체적인 반복자)의 역할
 Iterator가 결정한 인터페이스를 실제로 구현합니다.
 이 역할은 검색하기 위해 필요한 정보를 가지고 있어야 합니다.
 
-* Aggregate(집합체)의 역할 #
+* Aggregate(집합체)의 역할
 Iterator역할을 만들어내는 인터페이스를 결정합니다.
 이 인터페이스는 '내가 가지고 있는 요소를 순서대로 검색해 주는 사람'을 만들어 내는 메소드 입니다.
 
-* ConcreateAggregate(구체적인 집합체)의 역할 #
+* ConcreateAggregate(구체적인 집합체)의 역할
 Aggregate역할이 결정한 인터페이스를 실제로 구현하는 일을 합니다.
 구체적인 Iterator 역할, 즉 ConcreteIterator역할의 인스턴스를 만들어 냅니다.
 <br/>
