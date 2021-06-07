@@ -1,4 +1,6 @@
-## 반복자 패턴 (iterator pattern)
+## 디자인 패턴 (design-pattern) 
+
+**작성자: 박대헌**
 
 ## 생성
 1) Builder
