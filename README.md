@@ -16,15 +16,6 @@
 이렇게 하면 집합체의 인터페이스 및 구현이 간단해질 뿐 아니라, 집합체에서는 반복작업에서 손을 떼고 원래 자신이 할 일(객체 컬렉션 관리)에만 전념할 수 있다.
 
 
-<br/>
-
-> 연관 패턴
-
-Visitor패턴 : 많은 것이 모여 있는 내부를 돌아다니면서 같은 처리를 반복 적용해가는 패턴
-
-Composite패턴 : Composite패턴은 재귀적인 구조를 갖는 페턴
-
-Facory Method 패턴 : iterator메소드가 iterator 인스턴스를 작성할 때 Factory method 패턴이 사용되는 경우 가 있다.
 
 
 <br/>
@@ -50,3 +41,13 @@ Aggregate역할이 결정한 인터페이스를 실제로 구현하는 일을 �
 ## 결과 - 적용해서 얻는 결과
 
 * iterator를 사용함 으로써 구현과 분리해서 하나씩 셀 수 있다
+
+<br/>
+
+> 연관 패턴
+
+Visitor패턴 : 많은 것이 모여 있는 내부를 돌아다니면서 같은 처리를 반복 적용해가는 패턴
+
+Composite패턴 : Composite패턴은 재귀적인 구조를 갖는 페턴
+
+Facory Method 패턴 : iterator메소드가 iterator 인스턴스를 작성할 때 Factory method 패턴이 사용되는 경우 가 있다.
