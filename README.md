@@ -21,7 +21,7 @@
 2) Template Method 
 3) Chain of Responsibility 
 4) Command 
-[5) Iterator] (./src/java/Iterator/READEME.md)
+[5) Iterator](./src/java/Iterator/READEME.md)
 6) Mediator 
 7) Memento 
 8) Observer 
