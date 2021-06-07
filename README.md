@@ -35,7 +35,7 @@ Iterator역할을 만들어내는 인터페이스를 결정한다
 
 * ConcreateAggregate(구체적인 집합체)의 역할
 Aggregate역할이 결정한 인터페이스를 실제로 구현하는 일을 한다
-구체적인 Iterator 역할, 즉 ConcreteIterator역할의 인스턴스를 만들어 
+구체적인 Iterator 역할, 즉 ConcreteIterator역할의 인스턴스를 만든다
 <br/>
 
 ## 결과 - 적용해서 얻는 결과
