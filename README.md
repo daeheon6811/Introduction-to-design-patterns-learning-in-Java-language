@@ -20,13 +20,13 @@
 
 > 연관 패턴
 
-Visitor패턴 #
+Visitor패턴
 많은 것이 모여 있는 내부를 돌아다니면서 같은 처리를 반복 적용해가는 패턴
 
-Composite패턴 #
+Composite패턴
 Composite패턴은 재귀적인 구조를 갖는 페턴
 
-Facory Method 패턴 #
+Facory Method 패턴
 iterator메소드가 iterator 인스턴스를 작성할 때 Factory method 패턴이 사용되는 경우 가 있다.
 
 
