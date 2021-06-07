@@ -9,6 +9,8 @@ public class Main {
 		Print p = new PrintBanner("Hello");
 		p.printWeak();
 		p.printSrong();
+
+		// TEST
 	}
 
 }
