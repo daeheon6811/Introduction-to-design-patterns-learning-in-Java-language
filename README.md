@@ -1,7 +1,7 @@
 ## 반복자 패턴 (iterator pattern)
 
 ## 생성
-[1) Builder ]
+[1) Builder ](./docs/folderB/b.md)
 [2) Prototype ]
 [3) Factory Method ]
 [4) Abstract Method ]
