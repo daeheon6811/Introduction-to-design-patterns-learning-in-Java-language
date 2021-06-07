@@ -35,7 +35,7 @@
 
 4) Command 
 
-[5)  Iterator](./src/main/java/Iterator/READEME.md)
+[5) Iterator](./src/main/java/Iterator/READEME.md)
 
 6) Mediator 
 
