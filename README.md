@@ -31,7 +31,7 @@
 ## 행위
 1) Interpreter 
 
-[templatemethod](./src/main/java/templatemethod/templatemethod.md)
+[templatemethod](./src/main/java/TemplateMethod01/templatemethod.md)
 
 3) Chain of Responsibility 
 
