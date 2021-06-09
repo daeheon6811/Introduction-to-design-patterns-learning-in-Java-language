@@ -42,10 +42,12 @@
 > 연관 패턴
 
 
-*Factory Method 패턴
+* Factory Method 패턴
+
 Template Method 패턴을 인스턴스 생성에 응용한 전형적인 예가 Factory Method 패턴
 
 * Strategy 패턴
+
 Template Method 패턴에서는 '상속'을 이용해서 프로그램의 동작을 변경 -> 상위 클래스에서 큰 흐름을 결정하고 하위클래스에서 구체적인 흐름을 결정하고 있기 때문
 Strategy 패턴에서는 '위임'을 이용해서 동작을 변경 -> 프로그램의 일부분을 변경하기 보다는 알고리즘 전체를 완전히 변경
 
