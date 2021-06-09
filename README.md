@@ -31,13 +31,13 @@
 ## 행위
 1) Interpreter 
 
-2) Template Method 
+[templatemethod](./src/main/java/templatemethod/templatemethod.md)
 
 3) Chain of Responsibility 
 
 4) Command 
 
-[5) Iterator](./src/main/java/Iterator/READEME.md)
+[Iterator](./src/main/java/Iterator/READEME.md)
 
 6) Mediator 
 
