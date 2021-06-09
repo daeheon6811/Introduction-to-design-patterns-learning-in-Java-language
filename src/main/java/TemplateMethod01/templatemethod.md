@@ -18,6 +18,8 @@
 
 <br/>
 
+![이미지](../../../../images/templatemethod.png)
+
 
 * AbstractClass(추상 클래스)의 역할
  AbstractClass는 템플릿 메소드를 구현하고  추상 메소드를 선언

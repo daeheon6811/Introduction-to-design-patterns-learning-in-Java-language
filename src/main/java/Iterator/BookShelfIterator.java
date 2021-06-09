@@ -2,9 +2,9 @@ package Iterator;
 
 import java.util.Iterator;
 
-public class BookShelfIterator implements Iterator<Object> {
+public class BookShelfIterator implements MyIterator {
 
-	
+
 	private BookShelf bookShelf;
 	private int index;
 	
