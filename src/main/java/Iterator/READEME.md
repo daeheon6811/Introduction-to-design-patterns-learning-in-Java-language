@@ -1,7 +1,7 @@
 
 ### 작성자
 * 박대헌
-> https://www.pdhstumus.com/board/dp
+> https://www.pdhstumus.com
 
 <br/>
 

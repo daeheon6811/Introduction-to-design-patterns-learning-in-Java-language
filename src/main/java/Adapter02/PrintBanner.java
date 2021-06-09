@@ -1,7 +1,5 @@
 package Adapter02;
 
-import Adapter01.Banner;
-
 
 // 어댑터 역할
 public class PrintBanner extends Print{
@@ -9,7 +7,7 @@ public class PrintBanner extends Print{
 	private Banner banner;
 	
 	public  PrintBanner(String string) {
-		this.banner = new Banner(string);	
+		this.banner = new Banner(string);
 	}
 	
 	@Override
